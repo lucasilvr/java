@@ -1,4 +1,4 @@
-//um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números
+/*Um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números */
 
 import java.util.Scanner;
 
