@@ -8,7 +8,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ex6 {
+public class ex06 {
 
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);

@@ -3,7 +3,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ex4 {
+public class ex04 {
 
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);
